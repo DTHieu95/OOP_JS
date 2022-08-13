@@ -1,0 +1,14 @@
+{
+  "name": "orangehrm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome testcases/orangeHRM.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.20.1"
+  }
+}
